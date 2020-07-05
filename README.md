@@ -1,9 +1,8 @@
-# Laravel 6 Real Estate / Venues Management with Adminpanel
+# Laravel 6 Real Estate / Management with Adminpanel
 
-Transformed [Bootstrap theme Homespace](https://colorlib.com/wp/template/homespace/) into a mini-clone of [Hirespace.com](https://hirespace.com) portal, fully manageable with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
-to manage all the venues, locations, event types.
 
-Also added SEO important stuff like Articles Slugs in URLs.
+
+
 
 This is a result of 2-hours live-coding series on Youtube: [see playlist](https://www.youtube.com/watch?v=Oq_b1g_JpCM&list=PLdXLsjL7A9k0HPZVGiA7WZDM9Zg0OnulJ)
 
@@ -28,16 +27,3 @@ This is a result of 2-hours live-coding series on Youtube: [see playlist](https:
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
 
-## License
-
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
